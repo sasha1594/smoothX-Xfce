@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="printer-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="17.46875"
+     inkscape:cx="5.7337127"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3000" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs11">
+    <linearGradient
+       gradientTransform="matrix(0.34883886,0,0,0.37500427,-0.37213192,-0.18761334)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6866"
+       id="linearGradient2877"
+       y2="19.999981"
+       x2="20.278992"
+       y1="36.999981"
+       x1="20.561552" />
+    <linearGradient
+       gradientTransform="matrix(0.34883886,0,0,0.37500427,-0.37213199,-0.1876208)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient8589"
+       id="linearGradient2875"
+       y2="37"
+       x2="11.50602"
+       y1="20"
+       x1="11.519291" />
+    <radialGradient
+       gradientTransform="matrix(0.3170197,0.00536125,-0.00400368,0.19223751,0.43811555,6.4966532)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6842"
+       id="radialGradient2872"
+       fy="11.918329"
+       fx="3.7590685"
+       r="21"
+       cy="11.918329"
+       cx="3.7590685" />
+    <linearGradient
+       gradientTransform="matrix(0.33544392,0,0,0.36881684,-0.05065306,-0.458053)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2366"
+       id="linearGradient2869"
+       y2="21"
+       x2="15.335471"
+       y1="33"
+       x1="15.600636" />
+    <linearGradient
+       gradientTransform="matrix(0.33544392,0,0,0.36881684,-0.05065306,-0.458053)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6828"
+       id="linearGradient2867"
+       y2="33"
+       x2="22.007805"
+       y1="21"
+       x1="21.919418" />
+    <linearGradient
+       gradientTransform="matrix(0.75000012,0,0,0.71431976,-1.0000009,-0.572158)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient6660"
+       id="linearGradient6666"
+       y2="0.80098301"
+       x2="11.999999"
+       y1="10"
+       x1="12" />
+    <linearGradient
+       id="linearGradient8589">
+      <stop
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:1"
+         id="stop8591" />
+      <stop
+         offset="1"
+         style="stop-color:#bebebe;stop-opacity:1"
+         id="stop8593" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2366">
+      <stop
+         offset="0"
+         style="stop-color:#2e3436;stop-opacity:1"
+         id="stop2368" />
+      <stop
+         offset="1"
+         style="stop-color:#555753;stop-opacity:1"
+         id="stop2370" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6828">
+      <stop
+         offset="0"
+         style="stop-color:#6e6e6e;stop-opacity:1"
+         id="stop6830" />
+      <stop
+         offset="1"
+         style="stop-color:#1e1e1e;stop-opacity:1"
+         id="stop6832" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6842">
+      <stop
+         offset="0"
+         style="stop-color:white;stop-opacity:1"
+         id="stop6844" />
+      <stop
+         offset="1"
+         style="stop-color:white;stop-opacity:0"
+         id="stop6846" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6866">
+      <stop
+         offset="0"
+         style="stop-color:#828282;stop-opacity:1"
+         id="stop6868" />
+      <stop
+         offset="1"
+         style="stop-color:#aaa;stop-opacity:1"
+         id="stop6870" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6660">
+      <stop
+         offset="0"
+         style="stop-color:#787878;stop-opacity:1"
+         id="stop6662" />
+      <stop
+         offset="1"
+         style="stop-color:#787878;stop-opacity:0"
+         id="stop6664" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.10000000000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 3 0 C 2.446 0 2 0.446 2 1 L 2 13 L 5 11 L 5.125 10.875 C 3.8519416 9.8609073 3.03125 8.2880156 3.03125 6.53125 C 3.03125 3.4824117 5.4824117 1.03125 8.53125 1.03125 C 11.580088 1.03125 14.0625 3.4824117 14.0625 6.53125 C 14.0625 9.5800883 11.580088 12.0625 8.53125 12.0625 C 8.0436601 12.0625 7.5744356 11.994146 7.125 11.875 L 7 12 L 4 15 L 2 13 L 2 15 C 2 15.554 2.446 16 3 16 L 14 16 C 14.554 16 15 15.554 15 15 L 15 1 C 15 0.446 14.554 -6.7943336e-18 14 0 L 3 0 z "
+     id="rect3849" />
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="M 8.53125 1.59375 C 5.7985676 1.59375 3.59375 3.7985676 3.59375 6.53125 C 3.59375 9.2639324 5.7985676 11.5 8.53125 11.5 C 11.263932 11.5 13.5 9.2639324 13.5 6.53125 C 13.5 3.7985676 11.263932 1.59375 8.53125 1.59375 z M 8.53125 5.4375 C 9.1456882 5.4375 9.65625 5.9168118 9.65625 6.53125 C 9.65625 7.1456882 9.1456882 7.65625 8.53125 7.65625 C 7.9168118 7.65625 7.4375 7.1456882 7.4375 6.53125 C 7.4375 5.9168118 7.9168118 5.4375 8.53125 5.4375 z "
+     id="path3857" />
+  <path
+     style="fill:#cccccc;stroke:none;stroke-width:0.10000000000000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="m 3,13 c 0,0 1,1 1,1 l 6,-6 z"
+     id="path3855"
+     inkscape:connector-curvature="0" />
+</svg>

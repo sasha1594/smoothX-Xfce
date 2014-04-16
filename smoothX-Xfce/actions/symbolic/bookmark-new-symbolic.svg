@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bookmark-new-symbolic.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="33.25"
+     inkscape:cx="5.229729"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2988" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="opacity:0.93999999000000001;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 8 0.625 C 7.1499852 0.62649432 6.3430481 4.9054149 5.65625 5.40625 C 4.9694519 5.9070851 0.66749783 5.3473761 0.40625 6.15625 C 0.14500217 6.9651239 3.9546598 9.0357997 4.21875 9.84375 C 4.4828402 10.6517 2.6239452 14.595333 3.3125 15.09375 C 4.0010547 15.592167 7.1499852 12.595244 8 12.59375 C 8.8500148 12.592256 12.031952 15.563335 12.71875 15.0625 C 13.405548 14.561665 11.551252 10.652624 11.8125 9.84375 C 12.073748 9.0348761 15.85784 6.9329503 15.59375 6.125 C 15.32966 5.3170497 11.032305 5.8734172 10.34375 5.375 C 9.6551952 4.8765828 8.8500148 0.62350568 8 0.625 z M 6.875 4.53125 L 9.125 4.53125 L 9.125 7.3125 L 11.875 7.3125 L 11.875 9.53125 L 9.125 9.53125 L 9.125 12.3125 L 6.875 12.3125 L 6.875 9.53125 L 4.09375 9.53125 L 4.09375 7.3125 L 6.875 7.3125 L 6.875 4.53125 z "
+     id="path2986" />
+</svg>

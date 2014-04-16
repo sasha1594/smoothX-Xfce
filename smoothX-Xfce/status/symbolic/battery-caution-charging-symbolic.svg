@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="battery-caution-symbolic.svg">
+  <defs
+     id="defs84310" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview84308"
+     showgrid="false"
+     inkscape:zoom="23.5113"
+     inkscape:cx="7.5072261"
+     inkscape:cy="11.402619"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2999" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="g3881"
+     transform="translate(-2.709083,5.7811009e-4)">
+    <path
+       id="rect2993"
+       d="m 8.953125,0.49461983 c 0.338187,0 0.625,0.24950896 0.625,0.57968387 l 0,0.6712128 2.8125,0 c 0.233263,0 0.40625,0.1993984 0.40625,0.4271355 l 0,12.936102 c 0,0.227737 -0.172987,0.396626 -0.40625,0.396626 l -8.7500001,0 c -0.2332632,0 -0.4375,-0.168889 -0.4375,-0.396626 l 0,-12.936102 c 0,-0.2277371 0.2042368,-0.4271355 0.4375,-0.4271355 l 2.7812501,0 0,-0.6712128 c 0,-0.33017491 0.2868134,-0.57968387 0.625,-0.57968387 l 1.90625,0 z"
+       style="fill:none;stroke:#cccccc;stroke-width:0.98808378px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       transform="scale(-1,1)"
+       ry="0"
+       y="12.873593"
+       x="-11.578908"
+       height="1.4919947"
+       width="7.1578159"
+       id="rect3001"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:none" />
+  </g>
+  <path
+     style="fill:#cccccc;stroke:none"
+     d="m 12,7.9999997 4,0 L 13,11 l 2,0 -4,5 1,-4 -1,0 z"
+     id="path3814"
+     inkscape:connector-curvature="0" />
+</svg>

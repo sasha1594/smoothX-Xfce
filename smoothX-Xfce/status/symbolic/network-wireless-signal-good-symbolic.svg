@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   id="svg5459"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="network-wireless-signal-excellent-symbolic.svg">
+  <defs
+     id="defs5461" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.197802"
+     inkscape:cx="2.9769802"
+     inkscape:cy="8"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5464">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4031"
+       d="M 1.3990719,6.9254643 1.2872466,6.8085574 C 5.013182,3.1702117 10.935447,3.1020949 14.750894,6.6464597 L 16,5.302002 C 13.734579,3.1975354 10.840446,2.1672017 7.9618593,2.2030747 l 0,0 C 5.0832729,2.2389477 2.2122732,3.3419726 -9.6875001e-8,5.5022404 L 1.3956484,6.9290764"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/home/neysa/icons-final/smoothX-Beta1/panel/16/nm-signal-0.png"
+       inkscape:export-xdpi="25.813742"
+       inkscape:export-ydpi="25.813742" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4033"
+       d="M 7.9999999,5.2543262 C 5.8789362,5.2807592 3.7659726,6.094016 2.135876,7.6857922 L 3.4135875,8.9921093 C 5.9751681,6.4907467 10.049109,6.4409365 12.672229,8.8776874 L 13.921335,7.5427648 C 12.252077,5.9921051 10.121064,5.2278935 7.9999999,5.2543262 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/home/neysa/icons-final/smoothX-Beta1/panel/16/nm-signal-0.png"
+       inkscape:export-xdpi="25.813742"
+       inkscape:export-ydpi="25.813742" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4035"
+       d="M 8.0381406,8.3055777 C 6.6745997,8.3225701 5.3196714,8.8460593 4.271752,9.8693441 L 5.5494636,11.175661 C 6.9466893,9.8112815 9.1627712,9.7893134 10.593564,11.11845 L 11.84267,9.7739925 C 10.769575,8.7771398 9.4016814,8.2885853 8.0381406,8.3055777 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:export-filename="/home/neysa/icons-final/smoothX-Beta1/panel/16/nm-signal-0.png"
+       inkscape:export-xdpi="25.813742"
+       inkscape:export-ydpi="25.813742" />
+    <path
+       sodipodi:end="5.4609711"
+       sodipodi:start="3.9388841"
+       d="M 16.276714,32.138932 A 8.1919546,8.1919546 0 0 1 27.575449,31.998127 L 22,38 z"
+       sodipodi:ry="8.1919546"
+       sodipodi:rx="8.1919546"
+       sodipodi:cy="38"
+       sodipodi:cx="22"
+       id="path4037"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc"
+       transform="matrix(0.30512515,0,0,0.30512515,1.3921334,2.2030747)"
+       inkscape:export-filename="/home/neysa/icons-final/smoothX-Beta1/panel/16/nm-signal-0.png"
+       inkscape:export-xdpi="25.813742"
+       inkscape:export-ydpi="25.813742" />
+  </g>
+</svg>

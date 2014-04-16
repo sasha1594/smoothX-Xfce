@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="channel-insecure-symbolic.svg">
+  <defs
+     id="defs84310" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview84308"
+     showgrid="false"
+     inkscape:zoom="23.5113"
+     inkscape:cx="0.4112819"
+     inkscape:cy="10.084559"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2999"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1.5px"
+       spacingy="1.5px" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="8.2031251,16.796875"
+       id="guide4631" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="7.4218751,12.109375"
+       id="guide4695" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#cccccc;stroke:none"
+     d="M 8 0.0625 L 0.0625 15.9375 L 15.9375 15.9375 L 8 0.0625 z M 7.75 4.375 C 7.8329134 4.35923 7.9104737 4.3750024 8 4.375 C 8.3987945 4.3750096 8.7164469 4.4977093 8.96875 4.75 C 9.2373242 5.034864 9.3749964 5.4166308 9.375 5.9375 C 9.3749964 6.466524 9.2522967 7.1044387 9 7.8125 L 8.6875 8.6875 C 8.5410004 9.1269955 8.441412 9.7037151 8.34375 10.46875 L 7.65625 10.46875 C 7.6399707 10.354812 7.6412756 10.262057 7.625 10.15625 C 7.6168595 10.050451 7.6100256 9.9414186 7.59375 9.84375 C 7.5530547 9.5995929 7.4863306 9.3828338 7.4375 9.1875 C 7.3968048 8.9921758 7.3694695 8.834002 7.3125 8.6875 L 7 7.8125 C 6.7476989 7.1044387 6.6249992 6.466524 6.625 5.9375 C 6.6249992 5.4410469 6.7844779 5.0592801 7.09375 4.75 C 7.282974 4.560782 7.5012599 4.4223099 7.75 4.375 z M 7.96875 11.78125 C 8.3105735 11.781252 8.5927519 11.897118 8.8125 12.125 C 9.0403808 12.352886 9.1562467 12.611953 9.15625 12.9375 C 9.1562467 13.263049 9.0403808 13.553366 8.8125 13.78125 C 8.5927519 14.000995 8.3105735 14.09375 7.96875 14.09375 C 7.6431996 14.09375 7.3841325 14.000995 7.15625 13.78125 C 6.9283649 13.553366 6.812499 13.263049 6.8125 12.9375 C 6.812499 12.611953 6.9283649 12.352886 7.15625 12.125 C 7.3841325 11.897118 7.6431996 11.781252 7.96875 11.78125 z "
+     id="path4697" />
+</svg>

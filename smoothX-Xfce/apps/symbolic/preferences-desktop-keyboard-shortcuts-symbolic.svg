@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="preferences-desktop-keyboard-shortcuts-symbolic.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="23.5113"
+     inkscape:cx="0.039758449"
+     inkscape:cy="8.5608615"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3874"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1.3877788e-16px"
+       spacingy="1.3877788e-16px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none"
+     id="rect3760"
+     width="16"
+     height="16"
+     x="0.042532369"
+     y="-7.5582534e-07"
+     ry="0.63891309" />
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect3884"
+     width="6.25"
+     height="5.078125"
+     x="1.0220301"
+     y="1.9262884"
+     ry="0.63891309" />
+  <rect
+     style="fill:none;stroke:#d70000;stroke-width:0.20852634;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3850"
+     width="7.594152"
+     height="6.9896045"
+     x="8.2637882"
+     y="1.0177306" />
+  <rect
+     style="fill:none;stroke:#b70000;stroke-width:0.21061566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3852"
+     width="13.561469"
+     height="6.987515"
+     x="0.22816925"
+     y="7.9937081" />
+  <path
+     style="fill:none;stroke:#bf0000;stroke-width:1.11598933px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 15.112397,7.9999995 0,3.9233995 -1.3078,0"
+     id="path3854"
+     inkscape:connector-curvature="0" />
+  <rect
+     ry="0.63891309"
+     y="1.9262884"
+     x="9.0220299"
+     height="5.078125"
+     width="6.25"
+     id="rect3896"
+     style="fill:none;stroke:#cccccc;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <rect
+     style="fill:none;stroke:#cccccc;stroke-width:1.29785633px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect3898"
+     width="11.183671"
+     height="4.7802687"
+     x="1.4170682"
+     y="9.097331"
+     ry="0.60143781" />
+</svg>

@@ -1,0 +1,26 @@
+SmoothX-Beta2
+---------------
+
+
+Thankyou for Downloading this Icon theme.
+
+This icon theme was created for XFCE but it may run on other desktops too.
+
+Please extract the contents to your home folder typicaly ~/.icons/
+if you have previous version Beta1 please delete complete folder and install fresh copy 
+of smoothX-Xfce-RC1.
+
+then dont forget to run icon-cache.sh file in a terminal or double click on the file.
+
+sh icon-cache.sh
+
+which generates cache files for each directory and helps applications load icons 
+fast and your applications will be more responsive.
+
+Later you will be able to switch icons from Menu/Settings-Manager/Appearance/Icons
+
+I have included orb.png buttons for menu, right click on your menu/properties/ and select from there
+to use rectangle button you should untick the -Show button title -check box.
+
+Thats it.
+Any doubts or complaints please post it on xfce-look.org 

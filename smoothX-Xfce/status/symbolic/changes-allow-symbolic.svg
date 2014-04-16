@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="changes-prevent-symbolic.svg">
+  <defs
+     id="defs84310" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview84308"
+     showgrid="true"
+     inkscape:zoom="23.5113"
+     inkscape:cx="0.4112819"
+     inkscape:cy="6.6819395"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2999"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1.3877788e-16px"
+       spacingy="1.3877788e-16px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:none"
+     d="M 5.34375 -0.03125 C 3.5470453 -0.03125 2.0149338 1.0867264 1.21875 2.71875 L 3.03125 2.71875 C 3.6075279 1.9709482 4.4214206 1.5 5.34375 1.5 C 7.0901098 1.5 8.5 3.1866419 8.5 5.25 L 8.5 6.65625 C 8.5 6.7707453 8.4837 6.8577585 8.46875 6.96875 L 3.90625 6.96875 L 2.21875 6.96875 L 0.625 6.96875 L 0 6.96875 L 0 14.125 C 0 15.153306 0.81544377 15.96875 1.84375 15.96875 L 8.84375 15.96875 C 9.8720569 15.96875 10.6875 15.153306 10.6875 14.125 L 10.6875 6.96875 L 10.0625 6.96875 L 10.0625 5.1875 C 10.0625 2.2848695 7.957139 -0.03125 5.34375 -0.03125 z "
+     id="rect4528" />
+</svg>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="media-playlist-repeat-one-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="21.968685"
+     inkscape:cx="5.9177852"
+     inkscape:cy="11.091215"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3025"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1.3877788e-16px"
+       spacingy="1.3877788e-16px" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs11" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none"
+     id="rect3783"
+     width="16"
+     height="16"
+     x="0"
+     y="-2.2165477e-07" />
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:none"
+     d="m 13.117326,2.35782 0,1.986947 -1.087197,0 -0.187448,0 -1.537072,0 c -1.0839338,0 -1.9995055,0.4916162 -2.6617595,1.2371557 C 6.9702378,4.7946492 5.9505635,4.3072774 4.832132,4.3072774 l -1.5745618,0 -0.074979,0 -3.11163408,0 0,1.6870305 3.11163408,0 0.074979,0 1.2371556,0 c 1.1465493,0 2.0789026,0.8658418 2.1743949,1.986947 -1.227e-4,0.012535 0,0.024925 0,0.03749 -0.095492,1.1211052 -1.0278456,1.9869471 -2.1743949,1.9869471 l -1.2371556,0 -0.074979,0 -3.11163408,0 0,1.687031 3.11163408,0 0.074979,0 1.5745618,0 c 1.1123016,0 2.1382348,-0.49484 2.8117175,-1.274646 0.6621009,0.742368 1.5804719,1.237156 2.6617595,1.237156 l 1.537072,0 0.187448,0 1.087197,0 0,1.986947 2.811717,-2.774228 -0.86226,-0.86226 -1.949457,-1.9494575 0,1.9494575 -1.124687,0 -0.149958,0 -1.162177,0 c -1.1417254,0 -2.0723845,-0.8725202 -2.1743945,-1.9869471 -0.00113,-0.012395 9.294e-4,-0.025036 0,-0.03749 0.1020104,-1.1144269 1.0326691,-1.986947 2.1743945,-1.986947 l 1.162177,0 0.149958,0 1.124687,0 0,1.9494574 1.949457,-1.9494574 0.86226,-0.8622601 L 13.117326,2.35782 z"
+     id="path3878"
+     inkscape:connector-curvature="0" />
+</svg>

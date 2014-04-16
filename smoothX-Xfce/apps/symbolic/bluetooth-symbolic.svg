@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bluetooth-disabled-symbolic.svg">
+  <defs
+     id="defs84310" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview84308"
+     showgrid="true"
+     inkscape:zoom="23.5113"
+     inkscape:cx="11.975043"
+     inkscape:cy="6.6819395"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2999"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1.3877788e-16px"
+       spacingy="1.3877788e-16px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#666666;fill-rule:evenodd;stroke:none"
+     d="m 2.4015595,0 0,5.1773879 L 0,3.5243665 l 0,2.3391813 2.4015595,1.7153996 0,0.8732943 L 0,10.136452 l 0,2.370371 2.4015595,-1.684211 0,5.177388 1.871345,0 0.093567,0 0,-0.06238 5.7387915,-3.836257 0,-1.559455 -3.6491232,-2.5263155 3.6491232,-2.5575048 0,-1.5594542 L 4.3664717,0.06237817 4.3664717,0 4.2729045,0 2.4015595,0 z M 4.3664717,2.4015595 7.766082,4.6783626 4.7407407,6.7992203 4.3664717,6.5497076 l 0,-4.1481481 z m 0.374269,6.7992202 3.0253413,2.1208573 -3.3996103,2.276804 0,-4.1481486 0.374269,-0.2495127 z"
+     id="rect4422"
+     inkscape:connector-curvature="0" />
+</svg>

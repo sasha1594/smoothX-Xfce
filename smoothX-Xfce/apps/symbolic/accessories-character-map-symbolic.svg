@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="accessories-character-map-symbolic.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="23.5113"
+     inkscape:cx="6.972595"
+     inkscape:cy="6.8595519"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none"
+     id="rect3760"
+     width="16"
+     height="16"
+     x="0.042532369"
+     y="-7.5582534e-07"
+     ry="0.63891309" />
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:none"
+     d="m 1.3828502,0.63371943 c -0.3796368,0 -0.70659756,0.29163091 -0.70659756,0.67126767 l 0,13.3900239 c 0,0.379636 0.32696076,0.671268 0.70659756,0.671268 l 13.3546938,0 c 0.379636,0 0.671268,-0.291632 0.671268,-0.671268 l 0,-13.3900239 c 0,-0.37963676 -0.291632,-0.67126767 -0.671268,-0.67126767 l -13.3546938,0 z m 0.7419275,0.95390677 11.3762203,0 c 0.312158,0 0.565278,0.2531206 0.565278,0.565278 l 0,10.9875918 c 0,0.312158 -0.25312,0.565278 -0.565278,0.565278 l -11.3762203,0 c -0.3121574,0 -0.5652781,-0.25312 -0.5652781,-0.565278 l 0,-10.9875918 c 0,-0.3121574 0.2531207,-0.565278 0.5652781,-0.565278 z"
+     id="rect3834"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:14.69452858px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Italic"
+     x="3.8522954"
+     y="11.809958"
+     id="text3840"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3842"
+       x="3.8522954"
+       y="11.809958">a</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:11.30556107px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Italic"
+     x="3.4700489"
+     y="10.600973"
+     id="text3844"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3846"
+       x="3.4700489"
+       y="10.600973">`</tspan></text>
+</svg>

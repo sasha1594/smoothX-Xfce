@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="template.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="748"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="23.5113"
+     inkscape:cx="0.039758449"
+     inkscape:cy="8.5608615"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3874"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1.3877788e-16px"
+       spacingy="1.3877788e-16px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none"
+     id="rect3760"
+     width="16"
+     height="16"
+     x="0.042532369"
+     y="-7.5582534e-07"
+     ry="0.63891309" />
+  <g
+     id="g3806"
+     transform="matrix(0.91184071,0,0,0.91184071,1.0042619,0.07636661)"
+     style="fill:#cccccc">
+    <path
+       id="path2984"
+       d="m 3.71875,3.8125 c -1.9440123,-3e-7 -3.53125029,0.2450307 -3.53125,0.53125 -6.4e-7,0.2862197 1.5872381,0.5312508 3.53125,0.53125 1.2425797,2e-7 2.2798521,-0.1068482 2.90625,-0.25 C 6.2313321,5.1980875 5.96875,6.0248722 5.96875,7 c 0,0.9147216 0.2101642,1.7410086 0.5625,2.3125 -0.4549686,0.5302361 -1.0433825,1.753195 -1.5625,3.28125 -0.7352583,2.164277 -1.0243391,4.084468 -0.625,4.28125 0.3993391,0.196782 1.3272416,-1.398223 2.0625,-3.5625 0.4595362,-1.352674 0.7030925,-2.544741 0.75,-3.34375 0.1774522,0.107112 0.3646802,0.15625 0.5625,0.15625 0.1978198,0 0.3850478,-0.04914 0.5625,-0.15625 0.046907,0.799009 0.2904637,1.991077 0.75,3.34375 0.7352582,2.164278 1.663161,3.759282 2.0625,3.5625 0.399339,-0.196782 0.110258,-2.116972 -0.625,-4.28125 C 9.9496324,11.065695 9.3612185,9.8427363 8.90625,9.3125 9.2585858,8.7410086 9.46875,7.9147216 9.46875,7 c 0,-0.9751278 -0.2625821,-1.8019125 -0.65625,-2.375 0.6263979,0.1431519 1.66367,0.2499998 2.90625,0.25 1.944012,-8e-7 3.531251,-0.2450296 3.53125,-0.53125 0,-0.2862195 -1.587238,-0.5312497 -3.53125,-0.53125 -1.490409,-2e-7 -2.7678329,0.1511267 -3.28125,0.34375 C 8.2184981,3.9820553 7.9741918,3.875 7.71875,3.875 7.4633082,3.875 7.2190019,3.9820553 7,4.15625 6.4865829,3.963627 5.2091593,3.8125003 3.71875,3.8125 z"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="translate(11.625,-3.4026191)"
+       d="m -2.34375,5.453125 c 0,0.8629449 -0.6995551,1.5625 -1.5625,1.5625 -0.8629449,0 -1.5625,-0.6995551 -1.5625,-1.5625 0,-0.8629449 0.6995551,-1.5625 1.5625,-1.5625 0.8629449,0 1.5625,0.6995551 1.5625,1.5625 z"
+       sodipodi:ry="1.5625"
+       sodipodi:rx="1.5625"
+       sodipodi:cy="5.453125"
+       sodipodi:cx="-3.90625"
+       id="path3799"
+       style="fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:type="arc" />
+  </g>
+</svg>
