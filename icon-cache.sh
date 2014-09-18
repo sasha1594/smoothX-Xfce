@@ -7,10 +7,13 @@ exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Ubuntu &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Red &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Trans &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Violet &
-exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-New-Green &
+exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Green-NG &
+exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Green-N &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Leather &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Blue-Dark &
-exit &
 exit
+fi
+
+
 
 
