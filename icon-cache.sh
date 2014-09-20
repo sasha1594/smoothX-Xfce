@@ -1,6 +1,8 @@
 #!/bin/sh
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Xfce &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Blue-N &
+exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Olive-NG &
+exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Dark-NG &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Brown-N &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Purple-N &
 exec= gtk-update-icon-cache -t -f ~/.icons/smoothX-Purple-NG &
