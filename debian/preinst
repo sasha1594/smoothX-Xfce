@@ -2,7 +2,7 @@
 set -e
 #remove old installation files
 if which smoothX* >/dev/null 2>&1 ; then
-rm -rf /usr/share/icons/smoothX*
+rm -Rf /usr/share/icons/smoothX*
 fi
 
 
