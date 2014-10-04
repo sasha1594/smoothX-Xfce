@@ -1,8 +1,8 @@
 #!/bin/sh
 set -e
-#remove old installation files
-if which smoothX* >/dev/null 2>&1 ; then
-rm -Rf /usr/share/icons/smoothX*
-fi
+
+rm -R -f /usr/share/icons/smoothX*
+exit 0
+
 
 

@@ -4,10 +4,12 @@ Priority: optional
 Maintainer: philipbabu <sasha.1594@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
-Homepage: https://github.com/sasha1594/smmothX-Xfce
+Homepage: https://github.com/sasha1594/smoothX-Xfce
 
 Package: smoothx-xfce
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Icon Theme for XFCE Desktop
- <insert long description, indented with spaces>
+ Complete set of Icon theme for your XFCE4 desktop environment
+ includes multiple colored folders and designs, to suit every
+ workspace and style.
