@@ -6,7 +6,7 @@ Inherits=smoothX-Xfce
 Example=directory-x-normal
 
 #Directory list
-Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/128,places/16,places/22,places/24,places/32,places/48,places/64,places/128,
+Directories=actions/16,actions/22,actions/24,actions/32,actions/48,actions/64,actions/128,places/16,places/22,places/24,places/32,places/48,places/64,places/128,places/256,
 
 [actions/16]
 Size=16
@@ -77,4 +77,9 @@ Type=Fixed
 Size=128
 Context=Places
 Type=Fixed
+
+[places/256]
+Size=256
+Context=Places
+Type=Scalable
 
