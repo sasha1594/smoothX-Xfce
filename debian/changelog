@@ -1,5 +1,5 @@
-smoothx-xfce (0.2.5) trusty; urgency=low
+smoothx-xfce (0.2.6) trusty; urgency=low
 
-  * Update release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Update release
 
- -- philipbabu <sasha.1594@gmail.com>  Sun, 22 Nov 2014 19:56:42 +0530
+ -- philipbabu <sasha.1594@gmail.com>  Sun, 14 Dec 2014 19:56:42 +0530
